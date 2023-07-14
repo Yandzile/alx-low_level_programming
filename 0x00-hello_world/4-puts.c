@@ -1,9 +1,9 @@
-#Include <stdio.h>
+#include <stdio.h>
 /*
  * printing statement
  */
 int main (void)
 {
-     puts("Programming is like building a multilingual puzzle\n");
-     return 0;
+puts("Programming is like building a multilingual puzzle\n");
+return (0);
 }
